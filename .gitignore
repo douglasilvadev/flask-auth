@@ -25,6 +25,7 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+sample_flask_auth
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
